@@ -1,0 +1,14 @@
+D:\CSharpDev 2024\ColorPaletteGenerator\ColorPaletteGenerator\bin\Release\ColorPaletteGenerator.exe.config
+D:\CSharpDev 2024\ColorPaletteGenerator\ColorPaletteGenerator\bin\Release\ColorPaletteGenerator.exe.manifest
+D:\CSharpDev 2024\ColorPaletteGenerator\ColorPaletteGenerator\bin\Release\ColorPaletteGenerator.application
+D:\CSharpDev 2024\ColorPaletteGenerator\ColorPaletteGenerator\bin\Release\ColorPaletteGenerator.exe
+D:\CSharpDev 2024\ColorPaletteGenerator\ColorPaletteGenerator\bin\Release\ColorPaletteGenerator.pdb
+D:\CSharpDev 2024\ColorPaletteGenerator\ColorPaletteGenerator\obj\Release\ColorPaletteGenerator.csproj.AssemblyReference.cache
+D:\CSharpDev 2024\ColorPaletteGenerator\ColorPaletteGenerator\obj\Release\ColorPaletteGenerator.Form1.resources
+D:\CSharpDev 2024\ColorPaletteGenerator\ColorPaletteGenerator\obj\Release\ColorPaletteGenerator.Properties.Resources.resources
+D:\CSharpDev 2024\ColorPaletteGenerator\ColorPaletteGenerator\obj\Release\ColorPaletteGenerator.csproj.GenerateResource.cache
+D:\CSharpDev 2024\ColorPaletteGenerator\ColorPaletteGenerator\obj\Release\ColorPaletteGenerator.csproj.CoreCompileInputs.cache
+D:\CSharpDev 2024\ColorPaletteGenerator\ColorPaletteGenerator\obj\Release\ColorPaletteGenerator.exe.manifest
+D:\CSharpDev 2024\ColorPaletteGenerator\ColorPaletteGenerator\obj\Release\ColorPaletteGenerator.application
+D:\CSharpDev 2024\ColorPaletteGenerator\ColorPaletteGenerator\obj\Release\ColorPaletteGenerator.exe
+D:\CSharpDev 2024\ColorPaletteGenerator\ColorPaletteGenerator\obj\Release\ColorPaletteGenerator.pdb
